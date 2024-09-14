@@ -1,10 +1,11 @@
 {
-  "name": "@comitter/debug",
+  "name": "@comitify/debug",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
+    "@comitify/shared": "^0.1.6",
     "@types/bun": "latest",
-    "@comitter/shared": "link:@comitter/shared"
+    "typescript": "^5.6.2"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"

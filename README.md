@@ -1,4 +1,4 @@
-# @comitter/debug
+# @comitify/debug
 
 To install dependencies:
 
